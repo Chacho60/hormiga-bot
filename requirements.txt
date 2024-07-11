@@ -4,3 +4,4 @@ python-dotenv
 dataclasses; python_version < '3.7'
 langchain-core
 langchain-openai
+psycopg
