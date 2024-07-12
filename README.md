@@ -11,9 +11,10 @@ Python bot that uses LLM to analyze expenses.
 
 ## Table of Contents
 
-1. [I](notion://www.notion.so/e05e48ba377d4949ac43a8d3b81abb50?showMoveTo=true&saveParent=true#installation)nstallation
+1. Installation
 2. Configuration
-3. Usage
+3. Overview
+4. Usage
 
 ## Installation
 
