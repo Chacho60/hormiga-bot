@@ -4,7 +4,7 @@
         "builder": "NIXPACKS"
     },
     "deploy": {
-        "startCommand": "pip install 'psycopg[binary]' && python src/main.py",
+        "startCommand": "pip install 'psycopg[binary]' && pip install 'psycopg[pool]' && python src/main.py",
         "restartPolicyType": "ON_FAILURE",
         "restartPolicyMaxRetries": 10
     }
