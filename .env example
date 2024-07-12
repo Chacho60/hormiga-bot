@@ -1,0 +1,9 @@
+DB_NAME=hormigadb
+DB_USER=hormigapg
+DB_PASSWORD=hormigapg_pass
+DB_HOST=localhost
+DB_PORT=5432
+QUEUE_URL=ampq://hormigamq:hormigamq_pass@rabbitmq:15672
+OPEN_API_KEY=<OPEN_API_KEY>
+OUTGOING_QUEUE=outgoing_messages
+INCOMING_QUEUE=incoming_messages
